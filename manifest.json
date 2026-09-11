@@ -1,0 +1,13 @@
+{
+  "name": "KOSI Plugin",
+  "description": "My first Aliucord plugin",
+  "authors": [
+    {
+      "name": "Kosi",
+      "id": "1451517827797487800"
+    }
+  ],
+  "main": "com.yourname.myplugin.MyPlugin",
+  "version": "1.0.0",
+  "dependencies": []
+}
